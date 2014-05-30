@@ -1,0 +1,4 @@
+localhost
+root
+
+myproject_mysql
